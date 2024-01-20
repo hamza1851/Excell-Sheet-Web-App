@@ -10,4 +10,4 @@ Excell Sheet Web App is created using Vanilla JavaScript and SCSS. One of the co
 - **Formula Dependency:** Cells can depend on others using formulas.
 - **Sheet Management:** Create, manage, download, and upload sheets.
 - **Data Manipulation:** Copy, cut, paste operations.
-- **Cyclic Formula Tracker:** Prevents cyclic formula issues.
+- **Cyclic Formula Tracker:** Prevents cyclic dependency between cells.
